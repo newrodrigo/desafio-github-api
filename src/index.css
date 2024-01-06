@@ -13,8 +13,8 @@
   --ghs-color-btn-inverse: #fff;
 
   --ghs-color-font-primary: #FFF;
-  --ghs-color-font-secondary: #0caf1d;
-  --ghs-color-font-tertiary: #fff;
+  --ghs-color-font-secondary: #000;
+  --ghs-color-font-tertiary: #7e7e7e;
   --ghs-color-font-placeholder: #d9d9d9;
 
   --ghs-color-error: #f33;
@@ -36,4 +36,8 @@ a:hover {
 html,
 body {
   background: var(--dsc-color-bg-primary);
+}
+
+.mt27 {
+  margin-top: 27px;
 }

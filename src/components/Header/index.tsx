@@ -1,9 +1,12 @@
-import './styles.css';
+import { Link } from "react-router-dom";
+import "./styles.css";
 
 export default function Header() {
   return (
     <header>
-      <h4>GitHub API</h4>
+      <Link to="/">
+        <h4>GitHub API</h4>
+      </Link>
     </header>
   );
 }
