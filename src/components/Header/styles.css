@@ -1,0 +1,10 @@
+header {
+  background-color: var(--ghs-color-bg-secondary);
+}
+
+header h4 {
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--ghs-color-font-primary);
+  padding: 15px 41px;
+}
