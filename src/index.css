@@ -1,23 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 
 :root {
-  --ghs-color-bg-primary: ##FFF;
-  --ghs-color-bg-secondary: #1890FF;
-  --ghs-color-bg-tertiary: #636363;
-  --ghs-color-bg-quaternary: #0caf1d;
+  --ghs-color-bg-primary: ##fff;
+  --ghs-color-bg-secondary: #1890ff;
+  --ghs-color-bg-tertiary: #e6f7ff;
 
   --ghs-color-card-bg: #fff;
   --ghs-color-card-border: #d9d9d9;
 
-  --ghs-color-btn-primary: #3483fa;
-  --ghs-color-btn-inverse: #fff;
+  --ghs-color-btn-primary: #1890ff;
 
-  --ghs-color-font-primary: #FFF;
+  --ghs-color-font-primary: #fff;
   --ghs-color-font-secondary: #000;
   --ghs-color-font-tertiary: #7e7e7e;
+  --ghs-color-font-quartenary: #262626;
+  --ghs-color-font-quinary: #5C5858
+  
   --ghs-color-font-placeholder: #d9d9d9;
-
-  --ghs-color-error: #f33;
 }
 
 * {
