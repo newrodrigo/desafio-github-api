@@ -6,6 +6,6 @@ type Props = {
 
 export default function Button({text}:Props) {
     return (
-        <button>{text}</button>
+        <button type="submit">{text}</button>
     );
 }
